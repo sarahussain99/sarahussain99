@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">Sarah Al-Failakawi</title>
+<desc id="desc">Computer engineering, cybersecurity, and robotics. A lilac and blush circuit-inspired banner.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5efff"/><stop offset=".55" stop-color="#faf6fc"/><stop offset="1" stop-color="#fce9ef"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#b6a2c8" opacity=".24"/></pattern>
+</defs>
+<rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+<rect width="1280" height="360" rx="24" fill="url(#grid)"/>
+<g fill="none" stroke="#aa8fc7" stroke-width="1.5" opacity=".5"><path d="M920 0v65l55 55h100v80h205"/><path d="M1015 0v65l45 45h105v45h115"/><path d="M1280 265h-160l-45 45H960v50"/><rect x="955" y="140" width="86" height="86" rx="18"/><path d="M977 126v14m20-14v14m20-14v14m-40 86v14m20-14v14m20-14v14m-76-74h14m-14 20h14m86-20h14m-14 20h14"/></g>
+<g fill="#faf6fc" stroke="#aa8fc7" stroke-width="1.5"><circle cx="975" cy="120" r="4"/><circle cx="1075" cy="200" r="4"/><circle cx="960" cy="310" r="4"/></g>
+<rect x="64" y="64" width="30" height="3" rx="1.5" fill="#9b74b2"/>
+<text x="64" y="104" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3" fill="#786086">ENGINEERING WITH INTENTION</text>
+<text x="60" y="183" font-family="Georgia, 'Times New Roman', serif" font-size="62" fill="#34273f">Sarah Al-Failakawi</text>
+<text x="64" y="231" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#65566f">Computer Engineering · Cybersecurity · Robotics</text>
+<text x="64" y="292" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1" fill="#80698f">CURIOUS MIND. CONSIDERED DESIGN. SECURE SYSTEMS.</text>
+</svg>
