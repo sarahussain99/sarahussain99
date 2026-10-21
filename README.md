@@ -34,18 +34,6 @@ I’m building my skills one project at a time, testing ideas and documenting wh
 
 <br>
 
-### 03 / In my workspace
-
-**Using in my projects**  
-Python · TypeScript · React · FastAPI · SQLite
-
-**Learning about**  
-AI-agent security · Least privilege · Human-centered interfaces · Interactive learning
-
-**Exploring**  
-Robotics · The connection between software and physical systems
-
-<br>
 
 ---
 
