@@ -27,8 +27,8 @@ I care about the details: clear architecture, useful interactions, and documenta
 | Project | What I’m building | Status |
 | :--- | :--- | :--- |
 | **AgentShield** | A synthetic AI-agent security lab with independent tool authorization and persisted audit records. | **Local MVP** · Lab + Guard implemented; full Monitor planned |
-| **SYNAPSE** | An interactive neuroscience explorer with MRI-derived 3D anatomy and educational lessons. | **Deployed educational prototype** · source currently local |
-| **MALY · مالي** | A bilingual personal-finance app for transactions, budgets, and savings goals. | **In development** · account authentication and public launch pending |
+| **[SYNAPSE ↗](https://synapse.malyapp.workers.dev/)** | An interactive neuroscience explorer with MRI-derived 3D anatomy and educational lessons. | **Deployed educational prototype** · source currently local |
+| **[MALY · مالي ↗](https://maly.malyapp.workers.dev/)** | A bilingual personal-finance app for transactions, budgets, and savings goals. | **Published web app** · authentication workflows not independently verified |
 | **[MIZAN AI ↗](https://mizan-venture-path.base44.app/)** | Startup decision support exploring founder fit, financial readiness, and market potential. | **Published web app** · public landing page verified |
 
 <sub>AgentShield uses synthetic scenarios. SYNAPSE is educational, not diagnostic. MIZAN’s assessment and AI consultation workflows have not been independently tested.</sub>
