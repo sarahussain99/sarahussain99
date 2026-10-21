@@ -2,9 +2,9 @@
 
 <div align="center">
 
-**AI-agent security &nbsp; / &nbsp; thoughtful software &nbsp; / &nbsp; robotics**
+**Learning &nbsp; / &nbsp; building &nbsp; / &nbsp; exploring**
 
-Building at the intersection of secure systems and considered design.
+Exploring AI agents, cybersecurity, and robotics through hands-on projects.
 
 [Explore MIZAN AI ↗](https://mizan-venture-path.base44.app/)
 
@@ -14,11 +14,11 @@ Building at the intersection of secure systems and considered design.
 
 ### 01 / A little about me
 
-I’m Sarah. My interests connect **Computer Engineering**, **cybersecurity**, and **robotics**—from the boundaries that make software safer to the interfaces that make it easier to understand.
+I’m Sarah, exploring the intersection of **computer engineering**, **cybersecurity**, and **robotics**. I’m currently learning about AI agents and their security through hands-on projects, including **AgentShield**.
 
-My academic focus includes **MSc Cybersecurity**. My current engineering focus is **AgentShield**, a local lab for exploring AI-agent permissions, policy enforcement, and audit evidence.
+My academic focus includes **MSc Cybersecurity**. AgentShield is a learning project where I’m exploring tool permissions, policy checks, and audit records using synthetic scenarios.
 
-I care about the details: clear architecture, useful interactions, and documentation that tells you what actually works.
+I’m building my skills one project at a time, testing ideas and documenting what I learn.
 
 <br>
 
@@ -37,19 +37,19 @@ I care about the details: clear architecture, useful interactions, and documenta
 
 ### 03 / In my workspace
 
-**Building with**  
+**Using in my projects**  
 Python · TypeScript · React · FastAPI · SQLite
 
-**Thinking about**  
+**Learning about**  
 AI-agent security · Least privilege · Human-centered interfaces · Interactive learning
 
 **Exploring**  
-Robotics · Secure autonomy · The connection between software and physical systems
+Robotics · The connection between software and physical systems
 
 <br>
 
 ---
 
 <div align="center">
-<sub>Thoughtful interfaces. Explicit trust boundaries. Room to keep learning.</sub>
+<sub>Learning by building, testing, and asking questions.</sub>
 </div>
